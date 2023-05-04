@@ -1,10 +1,12 @@
 # Flask-Blog
 
-Flask blog website created with Jinja
+Flask blog website created with Jinja and Bootstrap
 
 Features:
 - Website created with Python Flask
 - Links to other blogs using dynamic urls
+- Retrieves json database from [npoint.io](https://www.npoint.io/)
+- Uses Bootstrap for website base
 
 How to run:
 - Download repository
@@ -20,3 +22,7 @@ Website Overview:
 Post Example:
 
 ![alt text](https://github.com/J0K3Rn/Flask-Blog/blob/main/screenshots/post.png?raw=true)
+
+About Page:
+
+![alt text](https://github.com/J0K3Rn/Flask-Blog/blob/main/screenshots/about.png?raw=true)
