@@ -17,11 +17,11 @@ How to run:
 
 Website Overview:
 
-![alt text](https://github.com/J0K3Rn/Flask-Blog/blob/main/screenshots/website.png?raw=true)
+![alt text](https://github.com/J0K3Rn/Flask-Blog/blob/main/screenshots/home.png?raw=true)
 
 Post Example:
 
-![alt text](https://github.com/J0K3Rn/Flask-Blog/blob/main/screenshots/post.png?raw=true)
+![alt text](https://github.com/J0K3Rn/Flask-Blog/blob/main/screenshots/post_example.png?raw=true)
 
 About Page:
 
